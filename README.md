@@ -2,8 +2,8 @@
 
 LoRa通信で帯域幅と拡散率を変えた時に通信距離と信号強度がどう変化するかを測定しました。
 
-測定システムの詳細は「LoRaの通信距離と信号強度調査 (測定システム編)」をご覧ください。
-調査結果は「LoRaの通信距離と信号強度(https://ambidata.io/examples/lora/)」をご覧ください。
+測定システムの詳細は「[Raspberry Pi3とArduinoのLoRa通信](https://ambidata.io/examples/lora-2/)」をご覧ください。
+調査結果は「[LoRaの通信距離と信号強度](https://ambidata.io/examples/lora/)」をご覧ください。
 
 このリポジトリーには以下のソースコードが含まれます。
 
